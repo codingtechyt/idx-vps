@@ -13,7 +13,7 @@ display_header() {
 Sponsor By These Guys!                                                                  
 HOPINGBOYZ
 Jishnu
-NotGamerPie
+codingtechyt
 ========================================================================
 EOF
     echo
